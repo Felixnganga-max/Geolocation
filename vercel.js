@@ -11,11 +11,6 @@
         "src": "/(.*)",
         "dest": "server.js"
       }
-    ],
-    "env": {
-      "NODE_VERSION": "18.x"
-    },
-    "regions": ["all"],
-    "framework": "express",
-    "outputDirectory": "public"
+    ]
   }
+  
